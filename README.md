@@ -1,16 +1,13 @@
-# flutter_application_1
+# Quiz Biblico em Flutter📖
 
-A new Flutter project.
+Meu primeiro Projeto Pessoal Mobile em dart📱.
 
-## Getting Started
+## Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Desenvolvi esse software Mobile em dart,utilizando a biblioteca Flutter para melhor performace.
+Esse projeto foi feito pela aulas de "Speed Code" no Youtube, onde pude aprender na pratica a linguagem. 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Neckel23/Quiz_APP_Flutter/assets/91476119/dfdf3487-d419-417f-9076-baeff32cea3d" width ="250px" >
+<img src="https://github.com/Neckel23/Quiz_APP_Flutter/assets/91476119/e493aa8b-57e8-4630-b9fc-9768f6671e14" width ="250px" >
+<img src="https://github.com/Neckel23/Quiz_APP_Flutter/assets/91476119/5c36e666-30a0-48a3-acdd-20a20cc8c63d" width ="250px" >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
